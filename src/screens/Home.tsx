@@ -9,7 +9,7 @@ export function Home({ navigation }) {
     return(
         <View style={{flex: 1, backgroundColor: 'blue', justifyContent: 'center' }}>
             <Button
-                title="Ver repositorios"
+                title="Buscar Motos"
                 onPress={openScreen}
             />
 
